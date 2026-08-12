@@ -264,3 +264,19 @@ El foco siguiente debe ser estabilizar el backend REST para que toda la informac
 
 
 
+
+## Firma release generada
+
+Se generó un Android App Bundle firmado para publicación:
+
+`C:\Users\espin\Documents\APP Nettel\Nettel Maritimo v1.0-release-signed.aab`
+
+La keystore/upload key queda archivada únicamente de forma local en:
+
+`C:\Users\espin\Documents\APP Nettel\.signing\APPNettel`
+
+Certificado SHA-256:
+
+`79:B7:6A:0E:D9:3A:23:3E:C9:8B:BB:FF:80:8F:53:3C:1E:AD:1D:1D:45:FF:78:8E:1C:78:44:62:65:D2:07:B1`
+
+Ver detalle en `FIRMA_PUBLICACION_GOOGLE_PLAY.md`.
