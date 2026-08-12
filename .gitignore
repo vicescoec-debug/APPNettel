@@ -1,0 +1,54 @@
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Git/agent local
+.agents/
+.codex/
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+
+# Herramientas locales y SDK/JDK
+.tools/
+
+# Firmas y secretos
+*.jks
+*.keystore
+keystore.properties
+*.p12
+*.pem
+*.key
+*.env
+
+# Artefactos binarios generados
+*.apk
+*.aab
+*.apks
+*.zip
+
+# Temporales de pruebas y capturas ADB
+tmp_api_test/
+qa_manual/
+.tmp_osmdroid/
+window*.xml
+login_spot1.json
+login_test_spot1.json
+
+# Documentos internos con datos reales de pruebas/clientes
+CORRECCION_SPOT1_DEVICES_RIVERDIESEL1.md
+
+# Backups/compilados derivados del proyecto
+APK_Anteriores/
+Fuentes_Actualizados_NettelMaritimoNext/
+Fuentes_Actualizados_NettelMaritimoNext.zip
+Paquete_Google_Play_Nettel_Maritimo_*/
+Paquete_Google_Play_Nettel_Maritimo_*.zip
+
+# Proyecto antiguo recuperado / referencia binaria
+Nettel Maritimo/

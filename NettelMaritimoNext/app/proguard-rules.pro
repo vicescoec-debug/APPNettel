@@ -1,0 +1,4 @@
+-keepattributes *Annotation*
+-keep class com.nettel.maritimo.next.data.** { *; }
+-dontwarn javax.annotation.Nullable
+-dontwarn javax.annotation.concurrent.GuardedBy
